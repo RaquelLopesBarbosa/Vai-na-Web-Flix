@@ -1,0 +1,16 @@
+header {
+  background-color: rgb(107, 8, 8);
+}
+
+img {
+  width: 200px;
+}
+
+.card {
+  background-color: beige;
+  border: 10px solid black;
+}
+
+#bt1 {
+  background-color: rgb(136, 33, 33);
+}/*# sourceMappingURL=style.css.map */
