@@ -1,22 +1,36 @@
 // seletores: propriedades: valores
 
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h2 {
+    color: black;
+}
+
 header { 
     background-color: rgb(107, 8, 8);
 }
 
 // tag
 img {
-    width: 200px;
+    width: 100%;
 }
 
 // class
 .card {
     background-color: beige;
-    border: 10px solid black;
+    border: solid black;
+    border-radius: 10px;
+    width: 30vw;
+    padding: 10px;
     // opacity: 0.7;
 }
 
 // ID
 #bt1 {
     background-color: rgb(136, 33, 33);
+    width: 100%;
 }

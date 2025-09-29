@@ -1,16 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h2 {
+  color: black;
+}
+
 header {
   background-color: rgb(107, 8, 8);
 }
 
 img {
-  width: 200px;
+  width: 100%;
 }
 
 .card {
   background-color: beige;
-  border: 10px solid black;
+  border: solid black;
+  border-radius: 10px;
+  width: 30vw;
+  padding: 10px;
 }
 
 #bt1 {
   background-color: rgb(136, 33, 33);
+  width: 100%;
 }/*# sourceMappingURL=style.css.map */
